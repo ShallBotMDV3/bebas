@@ -834,6 +834,16 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 100
+    },
+    "6285321342313@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285720020945@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
     }
   },
   "READ": false,

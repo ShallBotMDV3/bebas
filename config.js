@@ -48,7 +48,7 @@ global.socialm = "GitHub: FShal" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "ShallBOT-MD" //ur bot name
+global.botname = "ShallBot-MD" //ur bot name
 global.websitex = "https://tiktok.com/@faishalitshere" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "ShallBOT-MD\n\n\n\n\n\n\ "
@@ -94,7 +94,7 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
+    success: 'Done🙇',
     admin: 'feature is only for admins!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This feature is only for owner',
